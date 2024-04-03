@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
- 
+
    <br/>
    <br/>
  
@@ -35,6 +35,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroKong413&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
 <!--
 **ZeroKong413/ZeroKong413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
